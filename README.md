@@ -1,5 +1,7 @@
 # Next.js with Docker, PM2 and NGINX
 
+https://steveholgado.com/nginx-for-nextjs/
+
 This project is a production Docker setup for a Next.js app.
 
 The Next.js app is launched with [PM2 Runtime](https://pm2.io/runtime/), which is a Production Process Manager for Node.js applications and is used to keep the app alive forever.
